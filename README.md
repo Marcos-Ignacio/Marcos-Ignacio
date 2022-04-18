@@ -12,5 +12,6 @@
   <a href = "mailto:marcos.st.manu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="hhttps://www.linkedin.com/in/marcos-ignacio-3370aa213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+ ![Snake animation](https://github.com/Marcos-Ignacio/Marcos-Ignacio/blob/output/github-contribution-grid-snake.svg)
  
 </div>
